@@ -32,11 +32,11 @@
 	{
 		"name" : "GLFW3"
 	},
-	"id" : "update_mappings::@bc596cad8b7724c9fe71",
+	"id" : "update_mappings::@64dbc1a2b9c835ca402e",
 	"name" : "update_mappings",
 	"paths" : 
 	{
-		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src",
+		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src",
 		"source" : "thirdparty/glfw-src/src"
 	},
 	"sourceGroups" : 

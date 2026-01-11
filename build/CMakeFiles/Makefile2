@@ -53,88 +53,88 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1"
+CMAKE_SOURCE_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build"
+CMAKE_BINARY_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build"
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
 all: CMakeFiles/GDGRAP-CMake.dir/all
-all: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/all
+all: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/all
 .PHONY : all
 
 # The main recursive "codegen" target.
 codegen: CMakeFiles/GDGRAP-CMake.dir/codegen
-codegen: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/codegen
+codegen: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/codegen
 .PHONY : codegen
 
 # The main recursive "preinstall" target.
-preinstall: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/preinstall
+preinstall: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
 clean: CMakeFiles/GDGRAP-CMake.dir/clean
-clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/clean
+clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/clean
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build
+# Directory level rules for directory C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build
 
 # Recursive "all" directory target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/all: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/all
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/all
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/all: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/all
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/all
 
 # Recursive "codegen" directory target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/codegen: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/codegen
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/codegen
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/codegen: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/codegen
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/codegen
 
 # Recursive "preinstall" directory target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/preinstall: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/preinstall
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/preinstall
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/preinstall: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/preinstall
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/preinstall
 
 # Recursive "clean" directory target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/clean
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/clean
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/clean
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/clean
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/clean
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/clean
 
 #=============================================================================
-# Directory level rules for directory C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src
+# Directory level rules for directory C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src
 
 # Recursive "all" directory target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/all: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/all
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/all: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/all
 
 # Recursive "codegen" directory target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/codegen: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/codegen
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/codegen
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/codegen: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/codegen
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/codegen
 
 # Recursive "preinstall" directory target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/preinstall:
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/preinstall
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/preinstall:
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/preinstall
 
 # Recursive "clean" directory target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/clean
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/clean
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/clean
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/clean
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/clean: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/clean
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/GDGRAP-CMake.dir
 
 # All Build rule for target.
-CMakeFiles/GDGRAP-CMake.dir/all: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all
+CMakeFiles/GDGRAP-CMake.dir/all: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GDGRAP-CMake.dir\build.make CMakeFiles/GDGRAP-CMake.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GDGRAP-CMake.dir\build.make CMakeFiles/GDGRAP-CMake.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num=1,2 "Built target GDGRAP-CMake"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num=1,2 "Built target GDGRAP-CMake"
 .PHONY : CMakeFiles/GDGRAP-CMake.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/GDGRAP-CMake.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 24
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 24
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/GDGRAP-CMake.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 0
 .PHONY : CMakeFiles/GDGRAP-CMake.dir/rule
 
 # Convenience name for target.
@@ -144,7 +144,7 @@ GDGRAP-CMake: CMakeFiles/GDGRAP-CMake.dir/rule
 # codegen rule for target.
 CMakeFiles/GDGRAP-CMake.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GDGRAP-CMake.dir\build.make CMakeFiles/GDGRAP-CMake.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num=1,2 "Finished codegen for target GDGRAP-CMake"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num=1,2 "Finished codegen for target GDGRAP-CMake"
 .PHONY : CMakeFiles/GDGRAP-CMake.dir/codegen
 
 # clean rule for target.
@@ -153,100 +153,100 @@ CMakeFiles/GDGRAP-CMake.dir/clean:
 .PHONY : CMakeFiles/GDGRAP-CMake.dir/clean
 
 #=============================================================================
-# Target rules for target C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir
+# Target rules for target C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir
 
 # All Build rule for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/all:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/depend"
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num= "Built target uninstall"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/all
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/all:
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/depend"
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/build"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num= "Built target uninstall"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/all
 
 # Build rule for subdir invocation for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 0
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/all"
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 0
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/all"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 0
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule
 
 # Convenience name for target.
-uninstall: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule
+uninstall: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule
 .PHONY : uninstall
 
 # codegen rule for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/codegen"
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num= "Finished codegen for target uninstall"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/codegen
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/codegen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num= "Finished codegen for target uninstall"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/codegen
 
 # clean rule for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/clean:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/clean"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/clean
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/clean:
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/clean"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/clean
 
 #=============================================================================
-# Target rules for target C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir
+# Target rules for target C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir
 
 # All Build rule for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/depend"
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24 "Built target glfw"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all:
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/depend"
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/build"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24 "Built target glfw"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all
 
 # Build rule for subdir invocation for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 22
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all"
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 0
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/rule
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 22
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/all"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 0
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/rule
 
 # Convenience name for target.
-glfw: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/rule
+glfw: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/rule
 .PHONY : glfw
 
 # codegen rule for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/codegen"
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24 "Finished codegen for target glfw"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/codegen
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/codegen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24 "Finished codegen for target glfw"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/codegen
 
 # clean rule for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/clean:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/clean"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/clean
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/clean:
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/clean"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/clean
 
 #=============================================================================
-# Target rules for target C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir
+# Target rules for target C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir
 
 # All Build rule for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/all:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/depend"
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num=25 "Built target update_mappings"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/all
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/all:
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/depend"
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/build"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num=25 "Built target update_mappings"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/all
 
 # Build rule for subdir invocation for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/all"
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 0
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/rule
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/all"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 0
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/rule
 
 # Convenience name for target.
-update_mappings: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/rule
+update_mappings: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/rule
 .PHONY : update_mappings
 
 # codegen rule for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/codegen"
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num=25 "Finished codegen for target update_mappings"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/codegen
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/codegen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num=25 "Finished codegen for target update_mappings"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/codegen
 
 # clean rule for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/clean:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/clean"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/clean
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/clean:
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/clean"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

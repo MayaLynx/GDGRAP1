@@ -1,14 +1,14 @@
 # Target labels
  glfw-populate
 # Source files and their labels
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/CMakeFiles/glfw-populate
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/CMakeFiles/glfw-populate.rule
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/CMakeFiles/glfw-populate-complete.rule
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build.rule
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure.rule
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download.rule
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install.rule
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir.rule
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch.rule
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test.rule
-C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/CMakeFiles/glfw-populate
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/CMakeFiles/glfw-populate.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/CMakeFiles/glfw-populate-complete.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test.rule
+C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update.rule

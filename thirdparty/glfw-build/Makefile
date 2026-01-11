@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1"
+CMAKE_SOURCE_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build"
+CMAKE_BINARY_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -131,14 +131,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\GDGRAP1\ASSIGN~1\build && $(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\\CMakeFiles\progress.marks"
-	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\GDGRAP1\ASSIGN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/all"
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 0
+	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\SCHOOL~1\GDGRAP1\MACHIN~1\build && $(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\\CMakeFiles\progress.marks"
+	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\SCHOOL~1\GDGRAP1\MACHIN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/all"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\GDGRAP1\ASSIGN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/clean"
+	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\SCHOOL~1\GDGRAP1\MACHIN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/clean"
 .PHONY : clean
 
 # The main clean target
@@ -147,31 +147,31 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\GDGRAP1\ASSIGN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/preinstall"
+	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\SCHOOL~1\GDGRAP1\MACHIN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/preinstall"
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\GDGRAP1\ASSIGN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/preinstall"
+	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\SCHOOL~1\GDGRAP1\MACHIN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/preinstall"
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\GDGRAP1\ASSIGN~1\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\SCHOOL~1\GDGRAP1\MACHIN~1\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule:
-	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\GDGRAP1\ASSIGN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule"
-.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule:
+	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\SCHOOL~1\GDGRAP1\MACHIN~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule"
+.PHONY : C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule
 
 # Convenience name for target.
-uninstall: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule
+uninstall: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/rule
 .PHONY : uninstall
 
 # fast build rule for target.
 uninstall/fast:
-	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\GDGRAP1\ASSIGN~1\build && $(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/build"
+	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\SCHOOL~1\GDGRAP1\MACHIN~1\build && $(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/build"
 .PHONY : uninstall/fast
 
 # Help Target
@@ -198,6 +198,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\GDGRAP1\ASSIGN~1\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d C:\MEGA\DOCUME~1\School\SY5746~1.202\TERM2~1\SCHOOL~1\GDGRAP1\MACHIN~1\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

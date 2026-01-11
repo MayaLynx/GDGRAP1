@@ -76,13 +76,13 @@
 			"exportTargets" : 
 			[
 				{
-					"id" : "glfw::@bc596cad8b7724c9fe71",
+					"id" : "glfw::@64dbc1a2b9c835ca402e",
 					"index" : 1
 				}
 			],
 			"paths" : 
 			[
-				"C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/Export/f367bd07922f2ecfc14cf5547f1f7c4e/glfw3Targets.cmake"
+				"C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/Export/f367bd07922f2ecfc14cf5547f1f7c4e/glfw3Targets.cmake"
 			],
 			"type" : "export"
 		},
@@ -99,7 +99,7 @@
 	],
 	"paths" : 
 	{
-		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build",
+		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build",
 		"source" : "thirdparty/glfw-src"
 	}
 }

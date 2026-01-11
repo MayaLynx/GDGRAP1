@@ -1,6 +1,6 @@
 CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj: \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\main.cpp \
- C:/MEGA/DOCUME~1/School/SY5746~1.202/TERM2~1/GDGRAP1/ASSIGN~1/THIRDP~1/glfw-src/include/GLFW/glfw3.h \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\main.cpp \
+ C:/MEGA/DOCUME~1/School/SY5746~1.202/TERM2~1/SCHOOL~1/GDGRAP1/MACHIN~1/THIRDP~1/glfw-src/include/GLFW/glfw3.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
  C:/mingw64/x86_64-w64-mingw32/include/stddef.h \
  C:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \

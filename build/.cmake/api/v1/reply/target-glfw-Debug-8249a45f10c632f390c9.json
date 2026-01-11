@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/libglfw3.a"
+			"path" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/libglfw3.a"
 		}
 	],
 	"backtrace" : 1,
@@ -112,7 +112,7 @@
 	[
 		{
 			"backtrace" : 3,
-			"id" : "Threads::Threads::@d2f2cd1a2a7e7f6eaef9"
+			"id" : "Threads::Threads::@7d80c28581c0346d4d76"
 		}
 	],
 	"compileGroups" : 
@@ -151,15 +151,15 @@
 			[
 				{
 					"backtrace" : 8,
-					"path" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-src/include"
+					"path" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-src/include"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-src/src"
+					"path" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-src/src"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src"
+					"path" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src"
 				}
 			],
 			"language" : "C",
@@ -201,7 +201,7 @@
 	{
 		"name" : "GLFW3"
 	},
-	"id" : "glfw::@bc596cad8b7724c9fe71",
+	"id" : "glfw::@64dbc1a2b9c835ca402e",
 	"install" : 
 	{
 		"destinations" : 
@@ -220,21 +220,21 @@
 	[
 		{
 			"backtrace" : 3,
-			"id" : "Threads::Threads::@d2f2cd1a2a7e7f6eaef9"
+			"id" : "Threads::Threads::@7d80c28581c0346d4d76"
 		}
 	],
 	"linkLibraries" : 
 	[
 		{
 			"backtrace" : 3,
-			"id" : "Threads::Threads::@d2f2cd1a2a7e7f6eaef9"
+			"id" : "Threads::Threads::@7d80c28581c0346d4d76"
 		}
 	],
 	"name" : "glfw",
 	"nameOnDisk" : "libglfw3.a",
 	"paths" : 
 	{
-		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src",
+		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src",
 		"source" : "thirdparty/glfw-src/src"
 	},
 	"sourceGroups" : 

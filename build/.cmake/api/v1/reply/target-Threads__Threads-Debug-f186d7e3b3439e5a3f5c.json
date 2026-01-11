@@ -41,13 +41,13 @@
 		"major" : 2,
 		"minor" : 9
 	},
-	"id" : "Threads::Threads::@d2f2cd1a2a7e7f6eaef9",
+	"id" : "Threads::Threads::@7d80c28581c0346d4d76",
 	"imported" : true,
 	"local" : true,
 	"name" : "Threads::Threads",
 	"paths" : 
 	{
-		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build",
+		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build",
 		"source" : "thirdparty/glfw-src"
 	},
 	"sources" : [],

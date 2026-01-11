@@ -1,7 +1,7 @@
-C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.obj: \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\thirdparty\glfw-src\src\egl_context.c \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\thirdparty\glfw-src\src\internal.h \
- C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-src/include/GLFW/glfw3.h \
+C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.obj: \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\thirdparty\glfw-src\src\egl_context.c \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\thirdparty\glfw-src\src\internal.h \
+ C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-src/include/GLFW/glfw3.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
  C:/mingw64/x86_64-w64-mingw32/include/stddef.h \
  C:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
@@ -13,9 +13,9 @@ C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdpart
  C:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
  C:/mingw64/x86_64-w64-mingw32/include/stdint.h \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\thirdparty\glfw-src\src\platform.h \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\thirdparty\glfw-src\src\null_platform.h \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\thirdparty\glfw-src\src\win32_platform.h \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\thirdparty\glfw-src\src\platform.h \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\thirdparty\glfw-src\src\null_platform.h \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\thirdparty\glfw-src\src\win32_platform.h \
  C:/mingw64/x86_64-w64-mingw32/include/wctype.h \
  C:/mingw64/x86_64-w64-mingw32/include/windows.h \
  C:/mingw64/x86_64-w64-mingw32/include/sdkddkver.h \
@@ -242,11 +242,11 @@ C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdpart
  C:/mingw64/x86_64-w64-mingw32/include/_mingw_dxhelper.h \
  C:/mingw64/x86_64-w64-mingw32/include/xinput.h \
  C:/mingw64/x86_64-w64-mingw32/include/dbt.h \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\thirdparty\glfw-src\src\null_joystick.h \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\thirdparty\glfw-src\src\win32_joystick.h \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\thirdparty\glfw-src\src\win32_thread.h \
- C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\GDGRAP1\Assignment\ 1\thirdparty\glfw-src\src\win32_time.h \
- C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-src/include/GLFW/glfw3native.h \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\thirdparty\glfw-src\src\null_joystick.h \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\thirdparty\glfw-src\src\win32_joystick.h \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\thirdparty\glfw-src\src\win32_thread.h \
+ C:\MEGA\Documents\School\S.Y.\ 2025-2026\Term\ 2\School\ Projects\GDGRAP1\Machine\ Output\thirdparty\glfw-src\src\win32_time.h \
+ C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-src/include/GLFW/glfw3native.h \
  C:/mingw64/x86_64-w64-mingw32/include/stdio.h \
  C:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \

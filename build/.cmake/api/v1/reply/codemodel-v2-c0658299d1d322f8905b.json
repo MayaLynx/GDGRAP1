@@ -27,8 +27,8 @@
 				},
 				{
 					"directoryIndex" : 1,
-					"id" : "Threads::Threads::@d2f2cd1a2a7e7f6eaef9",
-					"jsonFile" : "target-Threads__Threads-Debug-338f038eaf68983ae7f5.json",
+					"id" : "Threads::Threads::@7d80c28581c0346d4d76",
+					"jsonFile" : "target-Threads__Threads-Debug-f186d7e3b3439e5a3f5c.json",
 					"name" : "Threads::Threads",
 					"projectIndex" : 1
 				}
@@ -65,13 +65,13 @@
 					[
 						3
 					],
-					"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build",
+					"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build",
 					"childIndexes" : 
 					[
 						2
 					],
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-thirdparty.glfw-src-Debug-1e1739b7fe3d3d6bc3ad.json",
+					"jsonFile" : "directory-thirdparty.glfw-src-Debug-3ca55a2a511ea7b579ca.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.4"
@@ -85,9 +85,9 @@
 					]
 				},
 				{
-					"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src",
+					"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-thirdparty.glfw-src.src-Debug-065c1a0663c43cf52b2d.json",
+					"jsonFile" : "directory-thirdparty.glfw-src.src-Debug-8e4432aa4f51e4539687.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.4"
@@ -151,28 +151,28 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "GDGRAP-CMake::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GDGRAP-CMake-Debug-0bb84de6b6e7acab37d7.json",
+					"jsonFile" : "target-GDGRAP-CMake-Debug-9d1782c9c610f018e132.json",
 					"name" : "GDGRAP-CMake",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "glfw::@bc596cad8b7724c9fe71",
-					"jsonFile" : "target-glfw-Debug-b163d1c9dd352e43aadc.json",
+					"id" : "glfw::@64dbc1a2b9c835ca402e",
+					"jsonFile" : "target-glfw-Debug-8249a45f10c632f390c9.json",
 					"name" : "glfw",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 1,
-					"id" : "uninstall::@d2f2cd1a2a7e7f6eaef9",
-					"jsonFile" : "target-uninstall-Debug-5e45b172028bf8867eae.json",
+					"id" : "uninstall::@7d80c28581c0346d4d76",
+					"jsonFile" : "target-uninstall-Debug-0767719252c9f8d6e515.json",
 					"name" : "uninstall",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "update_mappings::@bc596cad8b7724c9fe71",
-					"jsonFile" : "target-update_mappings-Debug-49c9220eac27f7ed0f37.json",
+					"id" : "update_mappings::@64dbc1a2b9c835ca402e",
+					"jsonFile" : "target-update_mappings-Debug-cfd7c8f68d539dccf3ce.json",
 					"name" : "update_mappings",
 					"projectIndex" : 1
 				}
@@ -182,8 +182,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/build",
-		"source" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1"
+		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/build",
+		"source" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output"
 	},
 	"version" : 
 	{

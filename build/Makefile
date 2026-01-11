@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1"
+CMAKE_SOURCE_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build"
+CMAKE_BINARY_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -131,9 +131,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -183,7 +183,7 @@ uninstall: cmake_check_build_system
 
 # fast build rule for target.
 uninstall/fast:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/CMakeFiles/uninstall.dir/build"
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\CMakeFiles\uninstall.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/CMakeFiles/uninstall.dir/build"
 .PHONY : uninstall/fast
 
 #=============================================================================
@@ -196,7 +196,7 @@ glfw: cmake_check_build_system
 
 # fast build rule for target.
 glfw/fast:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/build"
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\glfw.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/build"
 .PHONY : glfw/fast
 
 #=============================================================================
@@ -209,7 +209,7 @@ update_mappings: cmake_check_build_system
 
 # fast build rule for target.
 update_mappings/fast:
-	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/build"
+	$(MAKE) $(MAKESILENT) -f "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\thirdparty\glfw-build\src\CMakeFiles\update_mappings.dir\build.make" "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/School Projects/GDGRAP1/Machine Output/thirdparty/glfw-build/src/CMakeFiles/update_mappings.dir/build"
 .PHONY : update_mappings/fast
 
 main.obj: main.cpp.obj

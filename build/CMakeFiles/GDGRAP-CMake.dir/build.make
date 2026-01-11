@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1"
+CMAKE_SOURCE_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build"
+CMAKE_BINARY_DIR = "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/GDGRAP-CMake.dir/depend.make
@@ -73,18 +73,18 @@ CMakeFiles/GDGRAP-CMake.dir/codegen:
 
 CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj: CMakeFiles/GDGRAP-CMake.dir/flags.make
 CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj: CMakeFiles/GDGRAP-CMake.dir/includes_CXX.rsp
-CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/main.cpp
+CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/main.cpp
 CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj: CMakeFiles/GDGRAP-CMake.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj -MF CMakeFiles\GDGRAP-CMake.dir\main.cpp.obj.d -o CMakeFiles\GDGRAP-CMake.dir\main.cpp.obj -c "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj -MF CMakeFiles\GDGRAP-CMake.dir\main.cpp.obj.d -o CMakeFiles\GDGRAP-CMake.dir\main.cpp.obj -c "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\main.cpp"
 
 CMakeFiles/GDGRAP-CMake.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/GDGRAP-CMake.dir/main.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\main.cpp" > CMakeFiles\GDGRAP-CMake.dir\main.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\main.cpp" > CMakeFiles\GDGRAP-CMake.dir\main.cpp.i
 
 CMakeFiles/GDGRAP-CMake.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GDGRAP-CMake.dir/main.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\main.cpp" -o CMakeFiles\GDGRAP-CMake.dir\main.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\main.cpp" -o CMakeFiles\GDGRAP-CMake.dir\main.cpp.s
 
 # Object files for target GDGRAP-CMake
 GDGRAP__CMake_OBJECTS = \
@@ -95,11 +95,11 @@ GDGRAP__CMake_EXTERNAL_OBJECTS =
 
 GDGRAP-CMake.exe: CMakeFiles/GDGRAP-CMake.dir/main.cpp.obj
 GDGRAP-CMake.exe: CMakeFiles/GDGRAP-CMake.dir/build.make
-GDGRAP-CMake.exe: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/GDGRAP1/Assignment\ 1/thirdparty/glfw-build/src/libglfw3.a
+GDGRAP-CMake.exe: C:/MEGA/Documents/School/S.Y.\ 2025-2026/Term\ 2/School\ Projects/GDGRAP1/Machine\ Output/thirdparty/glfw-build/src/libglfw3.a
 GDGRAP-CMake.exe: CMakeFiles/GDGRAP-CMake.dir/linkLibs.rsp
 GDGRAP-CMake.exe: CMakeFiles/GDGRAP-CMake.dir/objects1.rsp
 GDGRAP-CMake.exe: CMakeFiles/GDGRAP-CMake.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable GDGRAP-CMake.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable GDGRAP-CMake.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\GDGRAP-CMake.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -111,6 +111,6 @@ CMakeFiles/GDGRAP-CMake.dir/clean:
 .PHONY : CMakeFiles/GDGRAP-CMake.dir/clean
 
 CMakeFiles/GDGRAP-CMake.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\GDGRAP1\Assignment 1\build\CMakeFiles\GDGRAP-CMake.dir\DependInfo.cmake" "--color=$(COLOR)" GDGRAP-CMake
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build" "C:\MEGA\Documents\School\S.Y. 2025-2026\Term 2\School Projects\GDGRAP1\Machine Output\build\CMakeFiles\GDGRAP-CMake.dir\DependInfo.cmake" "--color=$(COLOR)" GDGRAP-CMake
 .PHONY : CMakeFiles/GDGRAP-CMake.dir/depend
 
