@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\GDGRAP-CMake.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\GDGRAP-CMake.dir/objects.a @CMakeFiles\GDGRAP-CMake.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\GDGRAP-CMake.dir/objects.a -Wl,--no-whole-archive -o GDGRAP-CMake.exe -Wl,--out-implib,libGDGRAP-CMake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GDGRAP-CMake.dir\linkLibs.rsp

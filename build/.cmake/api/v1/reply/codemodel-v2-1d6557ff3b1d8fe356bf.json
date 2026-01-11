@@ -1,0 +1,193 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Git::Git::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Git__Git-Debug-d37f5a3f06cfb4204b81.json",
+					"name" : "Git::Git",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL::GL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL__GL-Debug-2067b334c126707d8ca2.json",
+					"name" : "OpenGL::GL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL::GLU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL__GLU-Debug-6ce07d5ac9d1c528ecda.json",
+					"name" : "OpenGL::GLU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Threads::Threads::@d2f2cd1a2a7e7f6eaef9",
+					"jsonFile" : "target-Threads__Threads-Debug-338f038eaf68983ae7f5.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 1
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f6f22219c74102c3da70.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						3
+					],
+					"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-thirdparty.glfw-src-Debug-1e1739b7fe3d3d6bc3ad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "thirdparty/glfw-src",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-thirdparty.glfw-src.src-Debug-065c1a0663c43cf52b2d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "thirdparty/glfw-src/src",
+					"targetIndexes" : 
+					[
+						1,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GDGRAP-CMake",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GDGRAP-CMake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GDGRAP-CMake-Debug-0bb84de6b6e7acab37d7.json",
+					"name" : "GDGRAP-CMake",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "glfw::@bc596cad8b7724c9fe71",
+					"jsonFile" : "target-glfw-Debug-b163d1c9dd352e43aadc.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@d2f2cd1a2a7e7f6eaef9",
+					"jsonFile" : "target-uninstall-Debug-5e45b172028bf8867eae.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "update_mappings::@bc596cad8b7724c9fe71",
+					"jsonFile" : "target-update_mappings-Debug-49c9220eac27f7ed0f37.json",
+					"name" : "update_mappings",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/build",
+		"source" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

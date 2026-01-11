@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/build/cmake_install.cmake",
+		"C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/cmake_install.cmake",
+		"C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

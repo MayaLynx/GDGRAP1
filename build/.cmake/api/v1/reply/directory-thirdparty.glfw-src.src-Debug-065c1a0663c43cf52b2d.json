@@ -1,0 +1,50 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"thirdparty/glfw-src/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 362,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src/libglfw3.a"
+			],
+			"targetId" : "glfw::@bc596cad8b7724c9fe71",
+			"targetIndex" : 1,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "C:/MEGA/Documents/School/S.Y. 2025-2026/Term 2/GDGRAP1/Assignment 1/thirdparty/glfw-build/src",
+		"source" : "thirdparty/glfw-src/src"
+	}
+}
